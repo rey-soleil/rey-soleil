@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Rey! 👋
+
+I graduated from Stanford with a B.S. in Computer Science in 2019, and since then I've worked at Google and at various startups. 
+I'm currently attending a batch at the [Recurse Center](https://www.recurse.com/).
+
+🔭 I’m currently working on...
+- 🌈 [feels](https://github.com/rey-soleil/feels): a web app for logging moods
+- 📆 [the next right thing](https://github.com/rey-soleil/next-right-thing): a time management web app that integrates with Google Calendar + Todoist
+- ✍️ writer's blocks (WIP!): an open-ai assisted tool for helping writers get started on a project
+
 
 <!--
 **rey-soleil/rey-soleil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
