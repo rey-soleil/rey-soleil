@@ -4,9 +4,9 @@ I graduated from Stanford with a B.S. in Computer Science in 2019, and since the
 I'm currently attending a batch at the [Recurse Center](https://www.recurse.com/).
 
 🔭 I’m currently working on...
+- 💬 [what do i know?](https://github.com/rey-soleil/what-do-i-know) an openai-assisted chatbot that helps users map their mind
 - 🌈 [feels](https://github.com/rey-soleil/feels-next): a web app for logging moods
 - 📆 [the next right thing](https://github.com/rey-soleil/next-right-thing): a time management web app that integrates with Google Calendar + Todoist
-- ✍️ [writer's blocks](https://github.com/rey-soleil/writers-blocks): an open-ai assisted tool for helping writers get started on a project
 
 
 <!--
