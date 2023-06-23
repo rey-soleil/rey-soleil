@@ -4,7 +4,7 @@ I graduated from Stanford with a B.S. in Computer Science in 2019, and since the
 I'm currently attending a batch at the [Recurse Center](https://www.recurse.com/).
 
 🔭 I’m currently working on...
-- 💬 [ezra](https://github.com/rey-soleil/what-do-i-know) an openai-assisted chatbot that helps users map their mind
+- 💬 [ezra](https://github.com/rey-soleil/what-do-i-know): an openai-assisted chatbot that helps users map their mind
 - 📆 [things-take-time](https://github.com/rey-soleil/things-take-time): a time management web app that integrates with Google Calendar + Todoist
 
 <!--
