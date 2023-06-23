@@ -4,10 +4,8 @@ I graduated from Stanford with a B.S. in Computer Science in 2019, and since the
 I'm currently attending a batch at the [Recurse Center](https://www.recurse.com/).
 
 🔭 I’m currently working on...
-- 💬 [what do i know?](https://github.com/rey-soleil/what-do-i-know) an openai-assisted chatbot that helps users map their mind
-- 🌈 [feels](https://github.com/rey-soleil/feels-next): a web app for logging moods
-- 📆 [the next right thing](https://github.com/rey-soleil/next-right-thing): a time management web app that integrates with Google Calendar + Todoist
-
+- 💬 [ezra](https://github.com/rey-soleil/what-do-i-know) an openai-assisted chatbot that helps users map their mind
+- 📆 [things-take-time](https://github.com/rey-soleil/things-take-time): a time management web app that integrates with Google Calendar + Todoist
 
 <!--
 **rey-soleil/rey-soleil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
